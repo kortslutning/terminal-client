@@ -1,6 +1,6 @@
 {
   "name": "kortslutning",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Kortslutning CLI client – Quick PoC Hack",
   "main": "index.js",
   "bin": "index.js",

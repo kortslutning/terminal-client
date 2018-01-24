@@ -1,8 +1,9 @@
 {
-  "name": "kortslutning-node",
-  "version": "1.0.0",
-  "description": "",
+  "name": "kortslutning",
+  "version": "0.0.1",
+  "description": "Kortslutning CLI client – Quick PoC Hack",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

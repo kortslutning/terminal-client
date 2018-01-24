@@ -11,9 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "feedparser": "^2.2.8",
+    "bent": "^1.1.0",
     "inquirer": "^5.0.1",
     "lame": "^1.2.4",
+    "ora": "^1.3.0",
     "request": "^2.83.0",
     "speaker": "^0.4.0"
   }

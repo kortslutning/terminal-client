@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var FeedParser = require('feedparser');
 var request = require('request');
 var Speaker = require('speaker');
